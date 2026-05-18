@@ -20,8 +20,7 @@
 
 </div>
 
-A passionate **Full-Stack Developer** focused on building modern, scalable, and visually pleasing web applications.  
-I thrive at the **intersection of logic and creativity**, crafting seamless user experiences that are both beautiful and functional.
+I'm still growing as a developer. I do my best to write clean code and make websites that feel nice to use.
 
 ---
 
