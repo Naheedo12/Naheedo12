@@ -114,7 +114,6 @@ I thrive at the **intersection of logic and creativity**, crafting seamless user
 <div align="center">
 
 [![Email Me](https://img.shields.io/badge/💌%20Email%20Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elqadi.salma.928@gmail.com)
-[![Visit GitHub](https://img.shields.io/badge/🐙%20Visit%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naheedo12)
 
 </div>
 
