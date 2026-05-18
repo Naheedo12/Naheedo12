@@ -84,7 +84,7 @@ I thrive at the **intersection of logic and creativity**, crafting seamless user
 
 <div align="center">
 
-> *✨ Every commit is a step forward. Each line of code tells a story of growth, creativity, and dedication to the craft ✨* >
+> *✨ Every commit is a step forward. Each line of code tells a story of growth, creativity, and dedication to the craft ✨*
 
 </div>
 
